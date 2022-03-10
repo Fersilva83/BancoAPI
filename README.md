@@ -1,2 +1,2 @@
 # BancoAPI
- projeto simples de cadastro  de contas
+ projeto simples de cadastro  de contas com Angular e .Net
